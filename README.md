@@ -7,7 +7,7 @@
 
 ## 🏛 About Us
 
-**Digital Africa Initiative (DAI)** is a grassroots Community-Based Organization (CBO) based in Kenya, dedicated to promoting safe, democratic, and inclusive digital spaces.  
+**Digital Africa Initiative (DAI)** is a grassroots Community-Based Organization based in Kenya, dedicated to promoting safe, democratic, and inclusive digital spaces.  
 We empower local communities—especially marginalized groups—to actively participate in and shape Kenya’s digital future.
 
 ---
@@ -21,6 +21,7 @@ To promote inclusive, safe, and equitable access to digital spaces through commu
 ## 🧩 Focus Areas
 
 ### 1. **Safeguarding Digital Identity and Data Protection**
+
 - Community workshops on digital privacy and personal data protection  
 - Awareness campaigns on the Data Protection Act  
 - Engagement with local leaders to support ethical data practices  
@@ -31,17 +32,18 @@ To promote inclusive, safe, and equitable access to digital spaces through commu
 - Digital safety toolkits in local languages  
 
 ### 3. **Enhancing Content Moderation and Platform Accountability**
+- Creating AI workflows that are open to more people
 - Community forums on fair and localized content policies  
 - Submissions to platforms and regulators on user harms  
 - Research on platform accountability in underrepresented areas  
 
 ---
 
-## 💡 Hackathon Idea
+## 💡 CURRENT PROJECT
 
-**Project Title**: *“Jihami Hub: A Grassroots-Based Digital Safety Toolkit”*
+**Project Title**: *“Jihami Hub: A Grassroots-Based Digital Toolkit”*
 
-**Goal**: Build a mobile-first toolkit co-developed with community members and digital rights groups to help rural and peri-urban users detect, report, and recover from online harms.
+**Goal**: Build a mobile-first toolkit that is able to understand and output content in Kikuyu, Kiluhya and KiMIjikenda co-developed with community members and digital rights groups to help rural and peri-urban users learn, detect, report, and recover from online harms.
 
 **Impact**: Equip 5,000+ individuals with tools and resources to navigate digital threats, while feeding user feedback into national policy recommendations.
 
@@ -51,11 +53,11 @@ To promote inclusive, safe, and equitable access to digital spaces through commu
 
 **Location**: Nairobi, Kenya  
 **Email**: [info@digitalinclusion.ke](mailto:info@digitalinclusion.ke)  
-**Website**: [www.digitalinclusion.ke](http://www.digitalinclusion.ke)  
-**Phone**: +254-712-000-000
+**Website**: [CURRENTLY-UNDER-MAINTENANCE](http://www.digitalinclusion.ke)  
+**Phone**: +254-712-061-0442
 
 ---
 
-## 🙌 Let's Co-Create Safe Digital Futures
+## 🙌 Let's Co-Create our Digital Futures
 
 Together, we can shape a safer and more inclusive Kenyan digital ecosystem for all.
